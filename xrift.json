@@ -1,0 +1,17 @@
+{
+  "item": {
+    "distDir": "./dist",
+    "buildCommand": "npm run build",
+    "title": "モザイクブース",
+    "description": "いつでもどこでもモザイクジェスチャークイズが出来ます！",
+    "thumbnailPath": "thumbnail.png",
+    "ignore": [
+      "**/.DS_Store",
+      "**/Thumbs.db",
+      "**/*.js.map",
+      "**/*.d.ts",
+      "**/*.d.ts.map",
+      "**/index.html"
+    ]
+  }
+}
